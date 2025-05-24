@@ -1,4 +1,4 @@
-# comfidentiality_agreement
+# Comfidentiality Agreement
 
 - Bellande Git: https://git.bellande-technologies.com/RonaldsonBellande/comfidentiality_agreement
 - Github: https://github.com/RonaldsonBellande/comfidentiality_agreement
